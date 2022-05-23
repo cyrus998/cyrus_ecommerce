@@ -20,6 +20,8 @@ class ProductSeeder extends Seeder
             'description' => 'Nordic Chair',
             'image' => 'https://images.unsplash.com/photo-1517705008128-361805f42e86?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087'
         ]);
+
+        
         Product::create([
             'name' => 'Cushioned Chair',
             'price' => 4700.69,
@@ -31,6 +33,13 @@ class ProductSeeder extends Seeder
             'price' => 1299.99,
             'description' => 'Black Nordic Chair',
             'image' => 'https://images.unsplash.com/photo-1489269637500-aa0e75768394?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1141'
+        ]);
+
+        Product::create([
+            'name' => 'Gaming Chair Brand New',
+            'price' => 69420.00,
+            'description' => 'Gaming Chair',
+            'image' => 'https://media.discordapp.net/attachments/971130306751000636/978241075309318144/unknown.png?width=747&height=559'
         ]);
         Product::create([
             'name' => 'Potted Plant Matte',
@@ -73,6 +82,7 @@ class ProductSeeder extends Seeder
             'description' => 'Bed Side Alarm Clock',
             'image' => 'https://images.unsplash.com/photo-1628692945421-21162c93a8a6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fHJvdW5kJTIwdGFibGV8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500'
         ]);
+        
 
         Product::create([
             'name' => 'Varnished King Size Bed',
@@ -80,6 +90,8 @@ class ProductSeeder extends Seeder
             'description' => 'Varnished King',
             'image' => 'https://images.unsplash.com/photo-1615651586679-c40132c57ba3?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTV8fGJlZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500'
         ]);
+
+
 
         Product::create([
             'name' => 'Wall Mounted Light',
@@ -94,5 +106,8 @@ class ProductSeeder extends Seeder
             'description' => 'Small Cofee Table',
             'image' => 'https://images.unsplash.com/photo-1641570167132-ddc749b9d117?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHJvdW5kJTIwdGFibGV8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500'
         ]);
+
+
+       
     }
 }
