@@ -30,7 +30,7 @@
       <div class="sm:flex sm:items-center sm:justify-between">
         <a href="" class="flex items-center mb-4 sm:mb-0">
           <img src="https://cdn.discordapp.com/avatars/297376424204173312/ddd22f2f34c239bd9d7054c7107603d5.webp?size=80" class="mr-3 h-8 rounded-full" alt="Flowbite Logo">
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cyrus Payroll</span>
+          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cyrus Furnitures</span>
         </a>
         <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
           <li>

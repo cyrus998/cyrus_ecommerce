@@ -63,7 +63,7 @@
         </ul>
       </div>
       <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
-      <span class="block text-sm text-white sm:text-center dark:text-white">© 2022 <a href="https://www.facebook.com/cyrus998/" class="hover:underline"><span class="text-cyan-300">Cyrus Francisco</span></a>. IT32S2 </span>
+      <span class="block text-sm text-white sm:text-center dark:text-white">© 2022 <a href="https://www.facebook.com/cyrus998/" class="hover:underline"><span class="text-cyan-300">Cyrus Furnitures</span></a>. IT32S2 </span>
       <spa class="text-sm text-gray-500 sm:text-center dark:text-gray-400">Made with Laravel, Tailwind CSS, and lots of insanity. </span>
     </footer>
 
