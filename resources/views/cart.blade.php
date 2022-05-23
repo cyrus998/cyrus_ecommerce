@@ -78,7 +78,7 @@
                         <div class="mt-6 text-right">
                           <form action="{{ route('cart.clear') }}" method="POST">
                             @csrf
-                            <button class="px-6 py-2 text-red-800 bg-red-300">Remove All Cart</button>
+                            <button class="px-6 py-2 text-red-800 bg-red-300">Remove All Items</button>
                           </form>
 
                           <form action="" method="POST">
