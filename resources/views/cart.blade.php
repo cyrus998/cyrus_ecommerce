@@ -3,7 +3,7 @@
 <script src="https://cdn.tailwindcss.com"></script>
 @section('content')
           <main class="my-8">
-            <div class="container px-6 mx-auto">
+            <div class="container px-5 mx-auto">
                 <div class="flex justify-center my-6">
                     <div class="flex flex-col w-full p-8 text-gray-800 bg-white shadow-lg pin-r pin-y md:w-4/5 lg:w-4/5">
                       @if ($message = Session::get('success'))
@@ -18,7 +18,7 @@
                             <tr class="h-12 uppercase">
                               <th class="hidden md:table-cell"></th>
                               <th class="text-left">Item Unit</th>
-                              <th class="pl-5 text-left lg:text-right lg:pl-0">
+                              <th class="pl-5 w-16 text-left lg:text-right lg:pl-0">
                                 <span class="lg:hidden" title="Quantity">Qtd</span>
                                 <span class="hidden lg:inline">No. of Items</span>
                               </th>
@@ -47,9 +47,9 @@
                                     <form action="{{ route('cart.update') }}" method="POST">
                                       @csrf
                                       <input type="hidden" name="id" value="{{ $item->id}}" >
-                                    <input type="number" name="quantity" value="{{ $item->quantity }}" 
-                                    class="w-6 text-center bg-gray-300" />
-                                    <button type="submit" class="rounded px-2 pb-2 ml-2 text-white bg-blue-500">update</button>
+                                    <input style="width: 50px;" type="number" name="quantity" value="{{ $item->quantity }}" 
+                                    class="w-9 border rounded text-gray-700"/>
+                                    <button type="submit" class="rounded text-white bg-blue-500">update</button>
                                     </form>
                                   </div>
                                 </div>

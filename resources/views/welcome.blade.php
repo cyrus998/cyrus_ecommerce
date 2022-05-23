@@ -54,7 +54,7 @@
                 @endif
             </div>
             <div class="hidden sm:block sm:w-1/3 lg:w-3/5 relative">
-                <img src="https://cdn.discordapp.com/attachments/971130306751000636/977882961380798474/kindpng_2879343.png" class="max-w-xs md:max-w-sm m-auto"/>
+                <img src="https://media.discordapp.net/attachments/971130306751000636/978187678430429204/unknown.png" class="max-w-xs md:max-w-sm m-auto"/>
             </div>
         </div>
     </div>
