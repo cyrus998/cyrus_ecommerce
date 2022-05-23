@@ -15,7 +15,7 @@
         <img class="w-16" src="https://cdn.discordapp.com/attachments/971130306751000636/977890412175970334/unknown.png" alt="">
 
             <div class="ml-5 uppercase text-gray-800 dark:text-white font-black text-3xl">
-                Payroll Poggers
+                Furnitura .
             </div>
 
         </div>
