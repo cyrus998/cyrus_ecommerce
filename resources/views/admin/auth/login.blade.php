@@ -24,7 +24,7 @@
     <div class="mx-auto w-full max-w-sm">
       <div>
         <h2 class="mt-15 mb-10 text-5xl leading-9 font-extrabold text-white">
-          ADMIN Sign In
+        <span class="text-cyan-300 mb-2"> Furnitura </span> ADMIN Sign In
         </h2>
         <p class="mt-2 text-sm leading-5 text-gray-200 max-w">
           Not an Admin??
@@ -90,7 +90,7 @@
     </div>
   </div>
   <div class="hidden lg:block relative w-0 flex-1">
-    <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1505904267569-f02eaeb45a4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1908&q=80" alt="" />
+    <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169" alt="" />
   </div>
 </div>
 </body>

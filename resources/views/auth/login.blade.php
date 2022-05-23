@@ -24,7 +24,7 @@
     <div class="mx-auto w-full max-w-sm">
       <div>
       <h2 class="mt-15 mb-10 text-5xl leading-9 font-extrabold text-cyan-300">
-          PayRoll
+          Furnitura
         </h2>
         <h2 class="mt-15 mb-10 text-5xl leading-9 font-extrabold text-white">
           User Sign In
@@ -94,7 +94,7 @@
     </div>
   </div>
   <div class="hidden lg:block relative w-0 flex-1">
-    <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1637169797848-12431f1d355c?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1664" alt="" />
+    <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887" alt="" />
   </div>
 </div>
 </body>

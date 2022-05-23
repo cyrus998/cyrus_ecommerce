@@ -26,13 +26,13 @@
                 <span class="w-20 h-2 bg-gray-800 dark:bg-white mb-12">
                 </span>
                 <h1 class="font-bebas-neue uppercase text-5xl sm:text-5xl font-black flex flex-col leading-none dark:text-white text-gray-800">
-                    Your Pay Slip
+                    High class furnitures
                     <span class="text-5xl sm:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">
                         Made Accessible.
                     </span>
                 </h1>
                 <p class="mt-5 text-2xl text-gray-700 dark:text-white">
-                    Get paid, track your salary, review deductions, just do it.
+                    We are commited to bring you top notch furnitures from the best craftsmakers..    
                 </p>
                 @if (Route::has('login'))
                 <div class="flex mt-8">

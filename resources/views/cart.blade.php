@@ -56,7 +56,7 @@
                               </td>
                               <td class="hidden text-right md:table-cell">
                                 <span class="text-sm font-medium lg:text-base">
-                                    ${{ $item->price }}
+                                ₱ {{ $item->price }}
                                 </span>
                               </td>
                               <td class="hidden text-right md:table-cell">
@@ -73,7 +73,7 @@
                           </tbody>
                         </table>
                         <div class="mt-5">
-                         <h1 class="text-4xl text-right">Total: ${{ Cart::getTotal() }}</h1> 
+                         <h1 class="text-4xl text-right">Total: ₱ {{ Cart::getTotal() }}</h1> 
                         </div>
                         <div class="mt-6 text-right">
                           <form action="{{ route('cart.clear') }}" method="POST">
